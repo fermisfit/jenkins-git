@@ -9,6 +9,7 @@ pipeline {
                     pwd
                     echo "esta linea se supone que la cambié"
                     echo "a ver si ahora no se tarda tanto"
+                    echo "Ya que funcione esta chingadera"
                     ls -lah
                 '''
             }
